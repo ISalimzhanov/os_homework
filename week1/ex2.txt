@@ -1,0 +1,45 @@
+    1  cd ~/week1
+    2  sh ex3.sh
+    3  gedit /main.c
+    4  nano main.c
+    5  cd compose ~/week1
+    6  cd ~/week1
+    7  history > ex2.txt
+    8  /usr/bin ~/week1/ex1.txt
+    9  /usr/bin/gcc ~/week1/ex1.txt
+   10  /usr/bin/gcc.sh ~/week1/ex1.txt
+   11  sudo apt-get gcc
+   12  sudo apt update
+   13  sudo apt install build-essent
+   14  sudo apt-get install manpages
+   15  nano ex3.sh
+   16  gcc main.c -o ex4
+   17  cd ~/week1
+   18  gcc main.c -o ex4
+   19  gcc --version
+   20  sudo apt install gcc
+   21  gcc main.c -o ex4
+   22  ./ex4
+   23  usr/bin ex1.txt
+   24  ~/usr/bin ex1.txt
+   25  whoami
+   26  cd ~/usr/bin
+   27  cd ~/bin
+   28  in usr/bin
+   29  ls usr/bin
+   30  ls /usr/bin
+   31  touch ex1.txt
+   32  ls | sort -r | tail -n 3
+   33  ls /usr/bin/ | sort -r | tail -n 3
+   34  ls /usr/bin/ | sort -r | tail -n
+   35  ls /usr/bin/ | sort -r | tail
+   36  ls /usr/bin/ | sort -r
+   37  ls /usr/bin/gcc > ex1.txt
+   38  touch ex1.txt
+   39  grep gcc <ex1.txt>
+   40  grep gcc ex1.txt
+   41  touch temp.txt
+   42  ls /usr/bin | sort -r > temp.txt
+   43  grep gcc temp.txt
+   44  grep gcc temp.txt > ex1.txt
+   45  history > ex2.txt
