@@ -1,0 +1,4 @@
+Physical:
+	-refers to the RAM
+Virtual:
+	-stored in hard drive, used when RAM is filled
