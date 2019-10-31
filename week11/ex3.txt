@@ -1,0 +1,1 @@
+buffer was cleaned during transition to the next line
